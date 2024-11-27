@@ -1,4 +1,3 @@
-import { useAppContext } from "../providers/FiltersContext";
 import "../styles/Error.scss";
 
 const Error = ({ message }: { message: string }) => {
